@@ -1,0 +1,116 @@
+.section-box
+{
+	float: left;
+	width: 150px;
+	max-width: 230px;
+	height: 50px;
+	margin: auto;
+	margin-right: 20px;
+	padding: 8px;
+	padding-top: 15px;
+	text-align: center;
+	background-color: #af8f49;
+	border-bottom-style: solid;
+	border-bottom-width: 5px;
+	border-bottom-color: #967838;
+}
+
+a.section-title
+{
+	color: #d7bb85;
+	font-family: 'AmaranthRegular';
+	font-size: 20px;
+}
+
+.section-count
+{
+	color: #e5d998;
+	font-size: 15px;
+	font-family: 'AmaranthRegular';
+}
+
+.section-row
+{
+	width: 80%;
+	margin: auto;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: transparent;
+	
+}
+
+div.list-all
+{
+	float: left;
+	width: 220px;
+	height: 50px;
+	margin: auto;
+	margin-top: 40px;
+	padding: 1%;
+	text-align: center;
+	background-color: #52665a;
+	border-bottom-style: solid;
+	border-bottom-width: 4px;
+	border-bottom-color: #3e5246;
+}
+
+a.list-all
+{	
+	color: #accae3;
+	font-size: 20px;
+	font-family: 'AmaranthRegular';
+}
+
+label.student
+{
+	color: #4f6e35;
+	font-size: 20px;
+	font-family: 'AmaranthRegular';
+	background-color: #a0c284;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #8cb46b;
+}
+
+input.student
+{
+	padding: 5px;
+	font-family: 'InconsolataMedium';
+	font-size: 15px;
+	border: 1px solid #c3bc87;
+}
+
+a.remove
+{
+	color: #36c8ae;
+}
+
+.add-box
+{
+	width: 90%;
+	margin: auto;
+	padding: 15px;
+	background: url('../images/bg_functionbox2.png');
+	border: 1px solid c6bf91;
+}
+
+h3.invite-student
+{
+	height: 32px;
+	padding-left: 45px;
+	color: #7e7441;
+	font-size: 20px;
+	font-family: 'MidoMedium';
+	background: url('../images/icon/invite.png') no-repeat;
+}
+
+.check
+{
+	width: 200px;
+	height: 40px;
+	color: #5e6f42;
+	font-size: 14px;
+	text-align: right;
+	
+}
